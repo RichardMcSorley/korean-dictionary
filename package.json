@@ -1,0 +1,26 @@
+{
+  "name": "korean-dictionary",
+  "version": "0.0.1",
+  "dependencies": {
+    "@material-ui/core": "^4.4.3",
+    "@material-ui/icons": "^4.4.3",
+    "next": "^9.0.6",
+    "next-redux-wrapper": "^4.0.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-redux": "6.0.0",
+    "redux": "4.0.1",
+    "redux-thunk": "2.3.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "convert-excel-to-json": "^1.6.1",
+    "numeral": "^2.0.6",
+    "redux-devtools-extension": "2.13.7"
+  },
+  "license": "MIT"
+}
